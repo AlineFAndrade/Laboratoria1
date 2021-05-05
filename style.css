@@ -1,0 +1,13 @@
+body {
+    display: block;
+    align-items: center;
+    box-sizing: border-box;
+    }
+  .caixa{
+    font-weight: bold;
+    text-align: center;
+    color: rgb(14, 11, 170);
+    font-family: "Impact";
+    font-size: 3em;
+ }
+      
