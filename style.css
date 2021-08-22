@@ -2,12 +2,21 @@ body {
     display: block;
     align-items: center;
     box-sizing: border-box;
+    width: 100%;
     }
-  .caixa{
+
+    header{
     font-weight: bold;
     text-align: center;
     color: rgb(14, 11, 170);
     font-family: "Impact";
     font-size: 3em;
- }
+   }
+
+   .tabela, th, td{
+     border: 1px solid black;
+     width: 100%;
+     width: 50%;
+   }
       
+  
